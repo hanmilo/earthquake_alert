@@ -1,5 +1,4 @@
-# Decoding structured JSON
+## Earthquake Alert
 
-## Starting Project
-
-Use this project to code along with [Decoding structured JSON](https://developer.apple.com/tutorials/app-dev-training/decoding-structured-json).
+Latest alerts on earthquakes from around the world. 
+Source: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson
